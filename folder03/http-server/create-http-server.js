@@ -9,7 +9,7 @@ const myServer = http.createServer((request, response) => {
   //   "<b>Hi NodeJS!!!</b> oK? Yes or No? <br> orada mısın? bugün güzel mi? "
   // );
   response.end(
-    "<b>Hi NodeJS!!!</b>"
+    "<b>Hi NodeJS!!! with Nodemon Lib.</b><br/> Good Time!!!"
   );
 });
 

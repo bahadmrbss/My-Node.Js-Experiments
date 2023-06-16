@@ -13,3 +13,5 @@ npm i [packageName] --save-dev -->
 npm i [packageName1] [packageName2] [packageName3] [packageName4] --> birden fazla paketi aynı anda kurmak için, boşluk bırakarak yan yana yazılabilir.
 npm uninstall [packageName] --> kurulan paketi siler
 npm uninstall [packageName] --no-save --> kurulan paketi siler fakat packagejson da görünmeye devam eder.
+npm i nodemon --> nodemon u kurmak için
+npm i nodemon -g --> nodemon u genel kurmak için 
